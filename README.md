@@ -27,3 +27,6 @@ Custom Cloud Endpoint - AI image Recognition - Text to Speech AI - IoT platform 
 
 Front-End --> React.JS Request rerouted to Django REST API (Python)
 Back-End --> NestJS using Kafka microservice with PostgreSQL
+Microservice --> Kafka Apache stream service
+Test --> Unit test (ViTest framework) and E2E test framework (SuperTest framework)
+CI/CD --> Docker, Github Action Workflows
